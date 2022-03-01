@@ -3,7 +3,7 @@
 
 ## Links úteis
 
-[Download Git](https://git-scm.com/downloads)
+[Download Git](https://git-scm.com/downloads)   
 [Documentação](https://git-scm.com/doc)
 
 ## Comandos básicos
